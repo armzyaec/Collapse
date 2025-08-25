@@ -327,7 +327,7 @@ Made by all captains around the world with ❤️. Fight for all that is beautif
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Scighost"><img src="https://avatars.githubusercontent.com/u/61003590?v=4?s=100" width="100px;" alt="Scighost"/><br /><sub><b>Scighost</b></sub></a><br /><a href="https://github.com/CollapseLauncher/Collapse/issues?q=author%3AScighost" title="Bug reports">🐛</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/IhoFox"><img src="https://avatars.githubusercontent.com/u/133899447?v=4?s=100" width="100px;" alt="IhoFox"/><br /><sub><b>IhoFox</b></sub></a><br /><a href="#translation-IhoFox" title="Translation">🌍</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/kujou-kju"><img src="https://avatars.githubusercontent.com/u/23724383?v=4?s=100" width="100px;" alt="kujou"/><br /><sub><b>kujou</b></sub></a><br /><a href="#translation-kujou-kju" title="Translation">🌍</a></td>
-		<td align="center" valign="top" width="14.28%"><a href="https://github.com/armzyaec"><img src="https://avatars.githubusercontent.com/u/46321295?v=100" width="100px;" alt="kujou"/><br /><sub><b>kujou</b></sub></a><br /><a href="#translation-kujou-kju" title="Translation">🌍</a></td>
+		<td align="center" valign="top" width="14.28%"><a href="https://github.com/armzyaec"><img src="https://avatars.githubusercontent.com/u/46321295?v=100" width="100px;" alt="armzyaec"/><br /><sub><b>kujou</b></sub></a><br /><a href="#translation-armzyaec" title="Translation">🌍</a></td>
     </tr>
   </tbody>
 </table>
