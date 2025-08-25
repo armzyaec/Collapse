@@ -14,7 +14,7 @@
 [![fr](https://img.shields.io/badge/README-fr-red.svg)](Docs/README.localized/README.fr-fr.md)
 [![ru](https://img.shields.io/badge/README-ru-red.svg)](Docs/README.localized/README.ru-ru.md)
 [![zh](https://img.shields.io/badge/README-zh-red.svg)](Docs/README.localized/README.zh-cn.md)
-[![zh](https://img.shields.io/badge/README-th-red.svg)](Docs/README.localized/README.th-th.md)
+[![zh](https://img.shields.io/badge/README-th-red.svg)](Docs/README.localized/README.th-TH.md)
 
 **Collapse** was originally designed for **Honkai Impact 3rd**. However, as the project evolved, this launcher is now a game client for all currently released **miHoYo Games**.
 
